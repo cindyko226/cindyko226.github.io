@@ -162,7 +162,7 @@ SECTION WRAPS
   text-align: center;
   background-attachment: relative;
   background-position: center center;
-  min-height: 500px;
+  min-height: 100vh;
   width: 100%;
   -webkit-background-size: 100%;
   -moz-background-size: 100%;
@@ -181,12 +181,14 @@ SECTION WRAPS
 }
 
 #headerwrap h1 {
+  font-weight: 500;
   font-size: 80px;
   color: white;
 }
 
 #headerwrap h3 {
-  font-size: 20px;
+  font-size: 25px;
+  padding-top: 20px;
   color: white;
 }
 
