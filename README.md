@@ -1,6 +1,4 @@
-# cindyko226.github.io
-
-Portfolio 
+# Portfolio 
 
 Projects 
 
