@@ -2,5 +2,7 @@
 
 Projects 
 
+Skills
+
 Resume
 
