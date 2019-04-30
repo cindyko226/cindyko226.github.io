@@ -2,9 +2,9 @@
 
 [Live](https://cindyko226.github.io/)
 
-Projects 
+## Projects 
 
-Skills
+## Skills
 
-Resume
+## Resume
 
