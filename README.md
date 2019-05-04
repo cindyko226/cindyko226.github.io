@@ -4,7 +4,12 @@
 
 ## Projects 
 
+# Take Me Home
+# Phacer
+# 2018 Chicago Crimes
+
 ## Skills
 
 ## Resume
 
+ 
