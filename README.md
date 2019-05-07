@@ -4,9 +4,9 @@
 
 ## Projects 
 
-# Take Me Home (web application)
+# Take Me Home (Web application)
 # Phacer (2D racer game)
-# 2018 Chicago Crimes (data visualization)
+# 2018 Chicago Crimes (Data visualization)
 
 ## Skills
 
