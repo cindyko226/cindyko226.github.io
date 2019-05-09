@@ -10,6 +10,25 @@
 
 ## Skills
 
+#JavaScript
+#Ruby
+#Ruby on Rails
+#React
+#Redux
+#MongoDB
+#Node.js
+#Express
+#jQuery
+#CSS3
+#HTML5
+#SASS
+#D3.js
+#Python
+#AWS
+#Git
+#GitHub
+
+
 ## Resume
 
  
