@@ -2,6 +2,10 @@
 
 [Live](https://cindyko226.github.io/)
 
+##About Me
+
+I am a software developer with a huge passion for coding, learning new technologies and implementing those skills. I am able to build web applications using Javascript, Ruby on Rails, PostgreSQL, mongoDB, Express, Node.js, HTML/CSS/SASS, AWS and React/Redux.
+
 ## Projects 
 
 # Take Me Home (Web application)
