@@ -8,7 +8,7 @@ I am a software developer with a huge passion for coding, learning new technolog
 
 ## Projects 
 
-# Take Me Home (Web application)
+# Take Me Home (web application)
 # Phacer (2D racer game)
 # 2018 Chicago Crimes (Data visualization)
 
