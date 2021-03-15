@@ -60,6 +60,17 @@ a:before, a:after {
   transition: color 0.1s ease-in, background 0.1s ease-in;
 }
 
+.resumeLink, .projectLink{
+  color: #0A3D33;
+  font-weight: bold;
+}
+.resumeLink:hover, .projectLink:hover{
+  color: #fff;
+}
+.resumeLink:hover button, .projectLink:hover button{
+  background: #0A3D33;
+}
+
 hr {
   display: block;
   height: 1px;
@@ -156,7 +167,8 @@ SECTION WRAPS
 /* Header Wrap */
 
 #headerwrap {
-  background: url(../img/wolf.jpg) no-repeat center top;
+  background-image: linear-gradient(to bottom, rgba(255,255,255,0.55) 0%, rgba(238,238,238,0.65) 57%, rgba(204,204,204,0.5) 79%),url("../img/wolf.jpg");
+  /* background: url(../img/wolf.jpg) no-repeat center top; */
   margin-top: 60px;
   padding-top: 140px;
   text-align: center;
@@ -181,15 +193,16 @@ SECTION WRAPS
 }
 
 #headerwrap h1 {
-  font-weight: 500;
+  font-weight: bold;
   font-size: 80px;
-  color: white;
+  color: #0E4E42;
 }
 
 #headerwrap h3 {
   font-size: 25px;
   padding-top: 20px;
-  color: white;
+  color: #0A3D33;
+  font-weight: 600;
 }
 
 /* Intnro Wrap */
@@ -287,7 +300,7 @@ SECTION WRAPS
 }
 
 .desc more {
-  color: #95a5a6;
+  color: #444;
 }
 
 sm {
